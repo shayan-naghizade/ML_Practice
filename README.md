@@ -50,6 +50,8 @@ This exercise uses the K-Nearest Neighbors (KNN) algorithm to predict diabetes b
 
 In this exercise, we use **Principal Component Analysis (PCA)** to reduce the dimensionality of a numerical dataset.
 
+
+##...
 ### Implemented Steps:
 
 - Applied PCA to identify the most important components.
