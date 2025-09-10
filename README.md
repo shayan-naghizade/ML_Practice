@@ -59,5 +59,5 @@ In this exercise, we use **Principal Component Analysis (PCA)** to reduce the di
 
 ---
 
-##And ...
+And ...
 ---
